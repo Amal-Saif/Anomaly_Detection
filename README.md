@@ -1,6 +1,6 @@
 **Anomaly Detection Using Contrastive Learning (Electron-Photon)**
 
-![GSoC 2021 with ML4SCI | The NMR Project | by Anantha S Rao | Towards Data  Science](Aspose.Words.28bc05dc-515c-4126-b0eb-9331fc598c7a.001.jpeg)
+![image](https://user-images.githubusercontent.com/113689877/193227014-c6edf7e3-1618-4d93-a089-171128fec6aa.png)
 
 **Overview:**
 
